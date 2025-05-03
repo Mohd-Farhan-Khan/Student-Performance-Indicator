@@ -115,9 +115,9 @@ The models are compared using metrics such as R-squared, MAE, MSE, and RMSE. Hyp
 ## Results
 
 The model evaluation results are as follows:
-- Best performing model: [To be filled by user]
-- R-squared score: [To be filled by user]
-- RMSE: [To be filled by user]
+- Best performing model: 
+- R-squared score: 
+- RMSE: 
 
 ## Future Work
 
