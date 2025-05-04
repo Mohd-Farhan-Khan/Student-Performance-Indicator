@@ -168,15 +168,15 @@ cython_debug/
 
 # ML Project specific
 # Model files and directories
-artifacts/
-*.pkl
-*.joblib
-*.h5
-*.onnx
-*.pt
-*.pth
-*.model
-saved_models/
+# artifacts/
+# *.pkl
+# *.joblib
+# *.h5
+# *.onnx
+# *.pt
+# *.pth
+# *.model
+# saved_models/
 
 # Data files
 # *.csv - Removed to allow version control of CSV files
