@@ -67,7 +67,7 @@ git clone https://github.com/yourusername/Student-Performance-Indicator.git
 cd Student-Performance-Indicator
 ```
 
-2. Create and activate a virtual environment:
+2. Create and Activate a virtual environment:
 ```bash
 python -m venv student_env
 source student_env/bin/activate  # On Windows: student_env\Scripts\activate
